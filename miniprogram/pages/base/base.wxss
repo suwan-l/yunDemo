@@ -1,0 +1,16 @@
+.mark{
+      width:86rpx;
+      height: 86rpx;
+      background:red;
+}
+.em{
+      width:82rpx;
+      height:82rpx;
+      font-size:24rpx;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      -webkit-transform:rotate(-45deg);
+      transform:rotate(-45deg);
+      color:#fff;
+}
